@@ -11,3 +11,5 @@ pluqin : jquery, select2, datatables.
 - import siakad.sql
 - buka file .env dan setting nama database
 - setelah selesai, run di terminal php artisan serve
+
+note : harus sudah install composer terlebih dahulu
